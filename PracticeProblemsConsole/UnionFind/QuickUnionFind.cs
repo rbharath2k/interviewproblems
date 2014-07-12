@@ -11,6 +11,7 @@ namespace PracticeConsole
     {
         private int[] intArray;
 
+
         public QuickUnionFind(int N)
         {
             for (int i = 0; i < N; i++)

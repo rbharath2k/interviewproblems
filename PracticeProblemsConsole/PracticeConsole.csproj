@@ -44,14 +44,14 @@
   <ItemGroup>
     <Compile Include="BaseArrayClass.cs" />
     <Compile Include="InsertionSort.cs" />
-    <Compile Include="IUnionFind.cs" />
+    <Compile Include="UnionFind\IUnionFind.cs" />
     <Compile Include="MergeSortExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QuickUnionFind.cs" />
+    <Compile Include="UnionFind\QuickUnionFind.cs" />
     <Compile Include="ReverseASentence.cs" />
     <Compile Include="RotateVowels.cs" />
-    <Compile Include="SimpleUnionFind.cs" />
+    <Compile Include="UnionFind\SimpleUnionFind.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
